@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 consectetuer adipiscing elit. commodo ligula eget dolor. massa.
+=======
+consectetuer adipiscing elit. commodo ligula eget dolor. massa.
+>>>>>>> ee18d5e3c3526382473fe2e6a129eb22f83f70df
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
 Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
